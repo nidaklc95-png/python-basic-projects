@@ -1,0 +1,5 @@
+a = int ( input ( "Birinci sayı: " ))
+b = int ( input  ("İkinci sayı: "))   
+print ( " Toplam: ", a + b)
+print ( " Fark: ", a - b)
+print ( " Çarpım: ", a * b)
